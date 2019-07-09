@@ -1,0 +1,12 @@
+{
+    "env":"test",
+    "test" :{
+        "baseUrl" : "https://uat-api.travelex-dev.net/",
+        "dbConfig":{
+            "server":"gb-pb-gec-vt3",
+            "database":"SALTAPP",
+            "user":"tvx",
+            "password":"tvx"
+        }
+    }
+}

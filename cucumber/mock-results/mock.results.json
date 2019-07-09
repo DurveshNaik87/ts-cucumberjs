@@ -1,0 +1,17 @@
+{
+    "flex-api-sc001": {
+        "der": {
+            "algorithm": "RSA",
+            "format": "X.509",
+            "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0DsqrDRX10hDDKQ0BLIOBV91PBXnp7k1UMDxtqgo5IGYcViqSsBufqaQcEBkFAiNdN2CPvTNR4WyjsCElFlDeRAbC/H7/SrvV1zb+Zeg0dWjXOapxpadoCJ7Y+WrGCZYI6lBqqlarmn6fZ2zbGLdvxJ/FcqBt6SglpeVfj5a94gBOcxdw4wYZvIuiRQYpBaT7r6vcrFuTxGmJqIYAoa1JcdYx8PgYWzlwxV9kUc2btm+VeTgtCc2TL/ZVi3Ofxl1by7UWCEH0mQy0hqmDKmHPAzzpDfYx3OBRJ3JpWj931ryYdF2V18bXz9X7zVws+Eh6aAFXRI6SW1I1nefwVFbCwIDAQAB"
+        },
+        "keyId": "08Yey9fMX9ijr05rI9wWMJQluOs2Q9WF"
+    },
+    "mastercard-api-sc001": {
+        "loginStatus": "open",
+        "ordinals": "2,4,9",
+        "attempts": 3,
+        "chId": "4ffceb26eb4c48aba2f76d22ce34f319",
+        "chIdExt": "3101088439"
+    }
+}
